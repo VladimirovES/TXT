@@ -1,1 +1,19 @@
-
+  Summary:
+  Ошибка валидации поля Name при вводе минимального кол-ва валидных символов
+  
+  STR:
+  1) Открыть сайт
+  2) Ввести поле Name
+  3) Ввести поле Password
+  4) Нажать кнопку зарегистрироваться
+  
+  Expected result:
+  Пользователь зарегистрирован
+  
+  Result:
+  Сообщение: "Заполните, пожалуйста, все поля!",
+  Severity : Major
+  Priority :Medium
+  Status : Opened
+  Author : VladimirovES
+  Attachment : some file.jpg
