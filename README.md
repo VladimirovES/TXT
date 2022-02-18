@@ -60,4 +60,5 @@ git push
 ```
 git pull
 ```
-[![telegram](https://i.ibb.co/XFK2SnN/Hello.png)](https://t.me/vladimirov_ES)
+С вопросами сюда (картинка кликабельна)
+[![telegram](https://ibb.co/3FfQ0f2)](https://t.me/vladimirov_ES)
