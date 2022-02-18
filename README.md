@@ -48,7 +48,7 @@ vim skills.txt
 ```
 12. Сделать коммит в одну строку.
 ```
-git add prefernces.txt skills.txt && git commit -m "Любимое"
+git add preferences.txt skills.txt && git commit -m "Любимое"
 ```
 13. Отправить сразу 2 файла на внешний репозиторий.
 ```
