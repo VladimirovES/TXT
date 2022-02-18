@@ -1,4 +1,3 @@
-[![telegram](https://i.ibb.co/XFK2SnN/Hello.png)](https://t.me/vladimirov_ES)
 # GIT HOMEWORK 1
 ## TXT
 
@@ -61,3 +60,4 @@ git push
 ```
 git pull
 ```
+[![telegram](https://i.ibb.co/XFK2SnN/Hello.png)](https://t.me/vladimirov_ES)
