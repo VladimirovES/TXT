@@ -42,7 +42,7 @@ touch preferences.txt
 ```
 vim preferences.txt
 ```
-11. Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT
+11. Создать файл skllls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT
 ```
 vim skills.txt
 ```
@@ -62,4 +62,4 @@ git pull
 ```
 С вопросами сюда (картинка кликабельна):
 
-[![telegram](https://ibb.co/3FfQ0f2)](https://t.me/vladimirov_ES)
+[![telegram](https://i.ibb.co/6tvL4vz/helloo.png](https://t.me/vladimirov_ES)
